@@ -1,0 +1,26 @@
+# ninja log v5
+99	142	6871372967137123	C:/ti/Embedded_System_Programming_Playlist/lesson10/Debug/Exe/lesson1.out	d4d863039a00a6a5
+5	137	6871344022729032	C:/ti/Embedded_System_Programming_Playlist/lesson9/Debug/Obj/delay.o	b264bf10928bb477
+1	87	6871345453839299	C:/ti/Embedded_System_Programming_Playlist/lesson9/Debug/Obj/main.o	fd603795d0ca1e87
+96	138	6871345454369309	C:/ti/Embedded_System_Programming_Playlist/lesson9/Debug/Exe/lesson1.out	81b46a559b172362
+1	63	6871365684694171	C:/ti/Embedded_System_Programming_Playlist/lesson10/Debug/Obj/delay.o	53fbbf52919fdedc
+1	89	6871372966586389	C:/ti/Embedded_System_Programming_Playlist/lesson10/Debug/Obj/main.o	6444da26b5218221
+0	147	6872166530820964	C:/ti/Embedded_System_Programming_Playlist/lesson11/Debug/Obj/delay.o	3ca4bfa377331859
+1	95	6872175306587740	C:/ti/Embedded_System_Programming_Playlist/lesson11/Debug/Obj/main.o	ec43faaf62ac6852
+105	148	6872175307139273	C:/ti/Embedded_System_Programming_Playlist/lesson11/Debug/Exe/lesson1.out	f55103c434ff11b9
+1	123	6872225870579395	C:/ti/Embedded_System_Programming_Playlist/lesson12/Debug/Obj/delay.o	363b06931386f8bc
+1	91	6872229890072060	C:/ti/Embedded_System_Programming_Playlist/lesson12/Debug/Obj/main.o	708050e859ff3b3e
+101	144	6872229890624531	C:/ti/Embedded_System_Programming_Playlist/lesson12/Debug/Exe/lesson1.out	d1d7e4c256292135
+1	90	6872230930643225	C:/ti/Embedded_System_Programming_Playlist/lesson12/Debug/Obj/main.o	708050e859ff3b3e
+100	143	6872230931193291	C:/ti/Embedded_System_Programming_Playlist/lesson12/Debug/Exe/lesson1.out	d1d7e4c256292135
+1	93	6872234879046405	C:/ti/Embedded_System_Programming_Playlist/lesson12/Debug/Obj/main.o	708050e859ff3b3e
+103	146	6872234879583668	C:/ti/Embedded_System_Programming_Playlist/lesson12/Debug/Exe/lesson1.out	d1d7e4c256292135
+1	95	6872235880147663	C:/ti/Embedded_System_Programming_Playlist/lesson12/Debug/Obj/main.o	708050e859ff3b3e
+105	148	6872235880701204	C:/ti/Embedded_System_Programming_Playlist/lesson12/Debug/Exe/lesson1.out	d1d7e4c256292135
+1	93	6872236206828905	C:/ti/Embedded_System_Programming_Playlist/lesson12/Debug/Obj/main.o	708050e859ff3b3e
+103	146	6872236207383439	C:/ti/Embedded_System_Programming_Playlist/lesson12/Debug/Exe/lesson1.out	d1d7e4c256292135
+1	148	6872237931337208	C:/ti/Embedded_System_Programming_Playlist/lesson12/Debug/Obj/main.o	708050e859ff3b3e
+157	201	6872237931897207	C:/ti/Embedded_System_Programming_Playlist/lesson12/Debug/Exe/lesson1.out	d1d7e4c256292135
+1	109	6872252477209036	C:/ti/Embedded_System_Programming_Playlist/lesson12/Debug/Obj/delay.o	e0ae1260b3771d1e
+1	87	6872254037098659	C:/ti/Embedded_System_Programming_Playlist/lesson12/Debug/Obj/main.o	c89c0d492e5955d8
+98	144	6872254037685218	C:/ti/Embedded_System_Programming_Playlist/lesson12/Debug/Exe/lesson1.out	d1d7e4c256292135
